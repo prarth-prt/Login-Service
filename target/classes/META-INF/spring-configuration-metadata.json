@@ -1,0 +1,11 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.prarthana.auctionapp.LoginService.UserController",
+      "name": "",
+      "type": "com.prarthana.auctionapp.LoginService.UserController"
+    }
+  ],
+  "properties": []
+}
